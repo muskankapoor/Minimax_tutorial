@@ -1,2 +1,4 @@
-# Minimax_tutorial
-Run using python GameManager.py
+
+# minimax_tutorial
+
+Run using `python GameManager.py`
